@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Reports
+reports/
+
+# PDF Exports
+*.pdf
+
+# Database Files
+*.db
+*.sqlite3
+
+# Environment Variables
+.env
+
+# Testing
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.bak
